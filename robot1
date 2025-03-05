@@ -1,0 +1,5 @@
+Robot1 name:
+prime number calculator1
+
+Robot1 goal:
+calculating prime number from 0 and waiting for a nother prime number from the another agent, in a loop alternately and always going up
