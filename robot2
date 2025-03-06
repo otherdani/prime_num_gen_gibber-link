@@ -1,5 +1,5 @@
-name:
+Robot2 name:
 prime number calculator2
 
-robot2 goal:
+Robot2 goal:
 calculating prime number from the another agents number and waiting for an another prime number, in a loop alternately and always going up
